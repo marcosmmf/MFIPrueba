@@ -7,7 +7,7 @@ namespace PruebaSonar
     {
         static void Main(string[] args)
         {
-            // VULNERABILIDAD 1: Contraseña hardcodeada en el código (Security).
+            // VULNERABILIDAD 1: Contraseña hardcodeada en el código (Security). //new commit
             string dbPassword = "SuperSecretPassword123!"; 
             
             Console.WriteLine("Introduce el ID del usuario:");
