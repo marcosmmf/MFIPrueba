@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaSonar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6afc4008fcaa5be3ac7c8854a95b5fdd36d30ce7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a80cb9be2d0cedfc0fa99dc2cbd7bcfa0079fb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaSonar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaSonar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

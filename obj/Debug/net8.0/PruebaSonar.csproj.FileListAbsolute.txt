@@ -1,0 +1,5 @@
+/workspaces/MFIPrueba/obj/Debug/net8.0/PruebaSonar.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MFIPrueba/obj/Debug/net8.0/PruebaSonar.AssemblyInfoInputs.cache
+/workspaces/MFIPrueba/obj/Debug/net8.0/PruebaSonar.AssemblyInfo.cs
+/workspaces/MFIPrueba/obj/Debug/net8.0/PruebaSonar.csproj.CoreCompileInputs.cache
+/workspaces/MFIPrueba/obj/Debug/net8.0/PruebaSonar.sourcelink.json
