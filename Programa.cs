@@ -15,6 +15,8 @@ namespace PruebaSonar
 
             // VULNERABILIDAD 2: Inyección SQL brutal (Security)
             string query = "SELECT * FROM Users WHERE Id = " + userId;
+
+            string name = "Marcos";
             
             // CODE SMELL: Uso de consola genérica y bloques vacíos
             try 
